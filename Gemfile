@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '>= 3.0.0.0'
+gem 'devise'
 gem 'omniauth'
 gem 'omniauth-twitter'
 group :development do
